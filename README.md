@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M Abdul Karim</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m passionate **Flutter Developer**
 
-- 💬 Ask me about **Flutter, Android development, Dart, C#, Java, Kotlin**
+- 💬 Ask me about **Flutter, Android development, Dart, Java**
 
 - 📫 How to reach me **abdulkarim3974@gmail.com**
 
