@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M Abdul Karim</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m passionate **Flutter Developer**
+- 🌱 **Flutter Developer**
 
 - 💬 Ask me about **Flutter, Android development, Dart, Java**
 
